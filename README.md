@@ -1,3 +1,4 @@
+
 <!--
 **yaronzz/yaronzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,10 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+![ViewCount](https://views.whatilearened.today/views/github/yaronzz/yaronzz.svg?cache=remove)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaronzz&show_icons=true&hide_border=true">
 
-## Hi there 🎉, I'm [Yaronzz]([fads](http://yaronzz.top/))! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+## Hi there 🎉, I'm [Yaronzz](http://yaronzz.top/)! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 - 👨‍💻 My blog: http://yaronzz.top
 - 📫 How to reach me: yaronhuang@foxmail.com
@@ -30,8 +34,3 @@ Here are some ideas to get you started:
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
     </div>
-
-
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-![ViewCount](https://views.whatilearened.today/views/github/yaronzz/yaronzz.svg?cache=remove)
