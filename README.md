@@ -22,14 +22,14 @@
 <p align="center">
   <img alt="c++" src="https://img.shields.io/badge/C++-F15B2A?style=flat-square&logo=c%2b%2b">
   <img alt="c" src="https://img.shields.io/badge/C-0b0b0b?style=flat-square&logo=c">
-  <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c sharp">
+  <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c%20sharp">
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
   <img alt="lua" src="https://img.shields.io/badge/LUA-2C2D72?style=flat-square&logo=lua">
   <br/>
 
-  <img alt="vscode" src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visual studio code">
-  <img alt="vs2019" src="https://img.shields.io/badge/VS2019-5C2D91?style=flat-square&logo=visual studio">
+  <img alt="vscode" src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visual%20studio%20code">
+  <img alt="vs2019" src="https://img.shields.io/badge/VS2019-5C2D91?style=flat-square&logo=visual%20studio">
   <img alt="qt" src="https://img.shields.io/badge/QT-41CD52?style=flat-square&logo=qt&logoColor=white">
   <br/>
 
