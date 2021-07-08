@@ -17,7 +17,7 @@
 
 ### 🍜 About
 
-- 👨‍💻 BLOG:  http://yaronzz.top
+- 👨‍💻 BLOG:  https://yaronzz.com
 - 📫 EMAIL: yaronhuang@foxmail.com
 
 ### 🌱 Languages&Tool I use: 
